@@ -1,0 +1,10 @@
+# true = pvp enabled, false = pvp toggleable (/pvp)
+pvp: false
+nightSkipping: true
+enchants: true
+mobExplosionRollback: false
+lightDistance: 20
+homingBows: true
+teleport: false
+fishFarming: false
+undergroundMobTimers: true

@@ -1,0 +1,24 @@
+main: me.pao.smp.Main
+name: SMP
+version: 1.19.2
+api-version: 1.19
+author: pao
+commands:
+  pvp:
+    usage: /<command>
+    description: Enable/disable PvP
+  torch:
+    usage: /<command>
+    description: Enable/disable off-hand torch placement
+  smprl:
+    usage: /smprl
+    description: Reload SMP config
+  ib:
+    usage: /ib
+    description: IBO
+  brew:
+    usage: /brew
+    description: Brewing guide
+  light:
+    usage: /light
+    description: Show dangerous light levels
